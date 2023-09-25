@@ -1,2 +1,3 @@
 # Vicidial-Install-Script
-Vicidial Install Script for CENTOS 7 ONLY
+Vicidial Install Script for CENTOS 7 ONLY.
+
